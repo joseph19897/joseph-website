@@ -1,5 +1,5 @@
-# React basic
+# Joseph - Website
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+This repository contains my public portfolio [Website](https://joseph.sbs/) feel free to fork / contribute to it.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is hosted on an Azure static Web App, it includes all the relevat github actions to automatically deploy it.
